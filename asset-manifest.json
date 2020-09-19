@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/oddisee/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/oddisee/static/js/main.a1eed9c7.chunk.js",
-    "main.js.map": "/oddisee/static/js/main.a1eed9c7.chunk.js.map",
+    "main.js": "/oddisee/static/js/main.d224a48a.chunk.js",
+    "main.js.map": "/oddisee/static/js/main.d224a48a.chunk.js.map",
     "runtime-main.js": "/oddisee/static/js/runtime-main.3765dc79.js",
     "runtime-main.js.map": "/oddisee/static/js/runtime-main.3765dc79.js.map",
     "static/js/2.3e83d6c6.chunk.js": "/oddisee/static/js/2.3e83d6c6.chunk.js",
     "static/js/2.3e83d6c6.chunk.js.map": "/oddisee/static/js/2.3e83d6c6.chunk.js.map",
     "index.html": "/oddisee/index.html",
-    "precache-manifest.69fe66790d2795896f7332c6b4ee50b0.js": "/oddisee/precache-manifest.69fe66790d2795896f7332c6b4ee50b0.js",
+    "precache-manifest.9559c72552c43bf98406a70856259b51.js": "/oddisee/precache-manifest.9559c72552c43bf98406a70856259b51.js",
     "service-worker.js": "/oddisee/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/oddisee/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.3e83d6c6.chunk.js.LICENSE.txt": "/oddisee/static/js/2.3e83d6c6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3765dc79.js",
     "static/js/2.3e83d6c6.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.a1eed9c7.chunk.js"
+    "static/js/main.d224a48a.chunk.js"
   ]
 }
