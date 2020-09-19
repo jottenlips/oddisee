@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fd199dc87fa4253bb05245da8f011e0",
+    "revision": "585de68d3c89f5c4cef006e00b47ea52",
     "url": "/oddisee/index.html"
   },
   {
-    "revision": "358d057a817707bbbf45",
+    "revision": "9cfcbcfa3be04c201e4c",
     "url": "/oddisee/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oddisee/static/js/2.3e83d6c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "358d057a817707bbbf45",
-    "url": "/oddisee/static/js/main.d224a48a.chunk.js"
+    "revision": "9cfcbcfa3be04c201e4c",
+    "url": "/oddisee/static/js/main.f5ed2cf0.chunk.js"
   },
   {
     "revision": "2ba3ea26cfba5ce426f4",
