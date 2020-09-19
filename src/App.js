@@ -12,9 +12,7 @@ import {
 import { useKeyPress, useKeyPressEvent } from "react-use";
 import { set } from "ramda";
 const [width, height] = [500, 200];
-const spritesheet = window.location.href.includes("local")
-  ? "/sprites/oddy.json"
-  : "sprites/oddy.json";
+const spritesheet = "sprites/oddy.json";
 
 const Oddy = () => {
   const [frames, setFrames] = useState([]);
