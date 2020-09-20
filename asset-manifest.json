@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/oddisee/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/oddisee/static/js/main.8424e908.chunk.js",
-    "main.js.map": "/oddisee/static/js/main.8424e908.chunk.js.map",
+    "main.js": "/oddisee/static/js/main.ea8ff0b8.chunk.js",
+    "main.js.map": "/oddisee/static/js/main.ea8ff0b8.chunk.js.map",
     "runtime-main.js": "/oddisee/static/js/runtime-main.3765dc79.js",
     "runtime-main.js.map": "/oddisee/static/js/runtime-main.3765dc79.js.map",
-    "static/js/2.3e83d6c6.chunk.js": "/oddisee/static/js/2.3e83d6c6.chunk.js",
-    "static/js/2.3e83d6c6.chunk.js.map": "/oddisee/static/js/2.3e83d6c6.chunk.js.map",
+    "static/js/2.767a548f.chunk.js": "/oddisee/static/js/2.767a548f.chunk.js",
+    "static/js/2.767a548f.chunk.js.map": "/oddisee/static/js/2.767a548f.chunk.js.map",
     "index.html": "/oddisee/index.html",
-    "precache-manifest.25ece0187c89e7fe7b3ab276e5639f60.js": "/oddisee/precache-manifest.25ece0187c89e7fe7b3ab276e5639f60.js",
+    "precache-manifest.74ad1d1f3a58f70d6e6fff3219a8008b.js": "/oddisee/precache-manifest.74ad1d1f3a58f70d6e6fff3219a8008b.js",
     "service-worker.js": "/oddisee/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/oddisee/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.3e83d6c6.chunk.js.LICENSE.txt": "/oddisee/static/js/2.3e83d6c6.chunk.js.LICENSE.txt"
+    "static/js/2.767a548f.chunk.js.LICENSE.txt": "/oddisee/static/js/2.767a548f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3765dc79.js",
-    "static/js/2.3e83d6c6.chunk.js",
+    "static/js/2.767a548f.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.8424e908.chunk.js"
+    "static/js/main.ea8ff0b8.chunk.js"
   ]
 }
